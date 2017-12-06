@@ -1,0 +1,10 @@
+F:\backend\ExemploCRUD\obj\Debug\netcoreapp2.0\ExemploCRUD.csproj.CoreCompileInputs.cache
+F:\backend\ExemploCRUD\obj\Debug\netcoreapp2.0\ExemploCRUD.AssemblyInfoInputs.cache
+F:\backend\ExemploCRUD\obj\Debug\netcoreapp2.0\ExemploCRUD.AssemblyInfo.cs
+F:\backend\ExemploCRUD\bin\Debug\netcoreapp2.0\ExemploCRUD.deps.json
+F:\backend\ExemploCRUD\bin\Debug\netcoreapp2.0\ExemploCRUD.runtimeconfig.json
+F:\backend\ExemploCRUD\bin\Debug\netcoreapp2.0\ExemploCRUD.runtimeconfig.dev.json
+F:\backend\ExemploCRUD\bin\Debug\netcoreapp2.0\ExemploCRUD.dll
+F:\backend\ExemploCRUD\bin\Debug\netcoreapp2.0\ExemploCRUD.pdb
+F:\backend\ExemploCRUD\obj\Debug\netcoreapp2.0\ExemploCRUD.dll
+F:\backend\ExemploCRUD\obj\Debug\netcoreapp2.0\ExemploCRUD.pdb
